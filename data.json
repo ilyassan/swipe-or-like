@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3Bob3RvX29mX2FfY2hlZXRhaF9ydW5uaW5nX2FmdGVyX2FfZ2F6ZWxsZV9zaWRlX183Mjk5Y2E5My01ZWI0LTQ2NDAtOTgzNy00NWVlMDI0ZGU0ZTctNXgtaHEtc2NhbGUtNV8wMHguanBn.jpg",
+        "name": "Cheetah"
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1669093970508-608873ede961?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWZyaWNhbiUyMGVsZXBoYW50fGVufDB8fDB8fHww",
+        "name": "Elephant"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/view-wild-lion-nature_23-2150460851.jpg?semt=ais_hybrid",
+        "name": "Lion"
+    },
+    {
+        "image": "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg",
+        "name": "Tiger"
+    },
+    {
+        "image": "https://cdn.mos.cms.futurecdn.net/mEuBJTDhXuTfSKdLefzSKg.jpg",
+        "name": "Giraffe"
+    },
+    {
+        "image": "https://t4.ftcdn.net/jpg/05/29/61/37/360_F_529613760_ZN7wI9c62MyPeFC8ioliQ2wrVohVuRey.jpg",
+        "name": "Monkey"
+    },
+    {
+        "image": "https://t4.ftcdn.net/jpg/02/73/14/01/360_F_273140104_8jSzl5bg8TCzCcOFM5HPhjjHinFw7gQ5.jpg",
+        "name": "Kangaroo"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/937298644/photo/endemic-chameleon-of-madagascar-on-a-branch.jpg?s=612x612&w=0&k=20&c=yABA62lCSybAJeAb8_hgvJPvSVAHtoYDinMfiBUsa6U=",
+        "name": "Chameleon"
+    },
+    {
+        "image": "https://i.pinimg.com/564x/d0/92/61/d09261c01b46807e5faf4d3cba32f88d.jpg",
+        "name": "Griffen"
+    },
+    {
+        "image": "https://images.pexels.com/photos/86596/owl-bird-eyes-eagle-owl-86596.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Owl"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Nile_crocodile_head.jpg",
+        "name": "Crocodile"
+    },
+    {
+        "image": "https://t4.ftcdn.net/jpg/09/99/77/81/360_F_999778109_W559vnPY2nLUMGZX53yXb5iwUFZxLXPM.jpg",
+        "name": "Parrot"
+    },
+    {
+        "image": "https://www.treehugger.com/thmb/qFhPReYPPaVgTtHBOthYeMJVeZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1043597638-49acd69677d7442588c1d8930d298a59.jpg",
+        "name": "Zebra"
+    },
+    {
+        "image": "https://d2zp5xs5cp8zlg.cloudfront.net/image-104600-800.jpg",
+        "name": "Hedgehog"
+    },
+    {
+        "image": "https://images5.alphacoders.com/818/818005.jpg",
+        "name": "Donkey"
+    },
+    {
+        "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Vwd2s2MTc3Nzk0MS13aWtpbWVkaWEtaW1hZ2Uta293YnN1MHYuanBn.jpg",
+        "name": "Fox"
+    }
+]
