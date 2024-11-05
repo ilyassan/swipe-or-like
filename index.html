@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Like or Swipe</title>
+    <link rel="stylesheet" href="./assets/css/all.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="statistiques mt-5 d-flex justify-content-between align-items-center">
+            <div id="swiped-images-btn" class="btn btn-secondary btn-lg">Swiped Images <span class="count">0</span></div>
+            <div id="waiting-images-btn" class="btn btn-primary btn-lg">Main <span class="count">0</span></div>
+            <div id="liked-images-btn" class="btn btn-danger btn-lg">Liked Images <span class="count">0</span></div>
+        </div>
+
+        <main id="cards">
+            <div class="cards">
+                <div class="card" data-index="0" style="--i: 0">
+                    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3Bob3RvX29mX2FfY2hlZXRhaF9ydW5uaW5nX2FmdGVyX2FfZ2F6ZWxsZV9zaWRlX183Mjk5Y2E5My01ZWI0LTQ2NDAtOTgzNy00NWVlMDI0ZGU0ZTctNXgtaHEtc2NhbGUtNV8wMHguanBn.jpg" alt="Cheetah">
+                    <div class="content">
+                        <h2 class="text-center py-2 display-1">Cheetah</h2>
+                        <div class="controll d-flex justify-content-between">
+                            <span class="swipe-btn bg-white rounded-circle display-2"><i style="rotate: 180deg;" class="fa-solid fa-thumbs-up text-secondary"></i></span>
+                            <span class="like-btn bg-white rounded-circle display-2"><i class="fa-solid fa-heart text-danger"></i></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" data-index="1" style="--i: 1">
+                    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3Bob3RvX29mX2FfY2hlZXRhaF9ydW5uaW5nX2FmdGVyX2FfZ2F6ZWxsZV9zaWRlX183Mjk5Y2E5My01ZWI0LTQ2NDAtOTgzNy00NWVlMDI0ZGU0ZTctNXgtaHEtc2NhbGUtNV8wMHguanBn.jpg" alt="Cheetah">
+                    <div class="content">
+                        <h2 class="text-center py-2 display-1">Cheetah</h2>
+                        <div class="controll d-flex justify-content-between">
+                            <span class="swipe-btn bg-white rounded-circle display-2"><i style="rotate: 180deg;" class="fa-solid fa-thumbs-up text-secondary"></i></span>
+                            <span class="like-btn bg-white rounded-circle display-2"><i class="fa-solid fa-heart text-danger"></i></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" data-index="2" style="--i: 2">
+                    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3Bob3RvX29mX2FfY2hlZXRhaF9ydW5uaW5nX2FmdGVyX2FfZ2F6ZWxsZV9zaWRlX183Mjk5Y2E5My01ZWI0LTQ2NDAtOTgzNy00NWVlMDI0ZGU0ZTctNXgtaHEtc2NhbGUtNV8wMHguanBn.jpg" alt="Cheetah">
+                    <div class="content">
+                        <h2 class="text-center py-2 display-1">Cheetah</h2>
+                        <div class="controll d-flex justify-content-between align-items-center">
+                            <span class="swipe-btn bg-white rounded-circle display-2"><i style="rotate: 180deg;" class="fa-solid fa-thumbs-up text-secondary"></i></span>
+                            <span class="like-btn bg-white rounded-circle display-2"><i class="fa-solid fa-heart text-danger"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <div id="liked-cards" class="d-none cards gap-5"></div>
+        <div id="swiped-cards" class="d-none cards gap-5"></div>
+    </div>
+    
+
+    <script src="./script.js"></script>
+</body>
+</html>
