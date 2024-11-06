@@ -94,10 +94,10 @@ function loadCards() {
                     <div class="card" style="--i: ${i <= 4 ? i : 4}">
                             <img src="${data[i].image}" alt="${data[i].name}">
                             <div class="content">
-                                <h2 class="text-center py-2 display-1">${data[i].name}</h2>
+                                <h2 class="text-center py-2">${data[i].name}</h2>
                                 <div class="controll d-flex justify-content-between">
-                                    <span class="swipe-btn bg-white rounded-circle display-2"><i style="rotate: 180deg;" class="fa-solid fa-thumbs-up text-secondary"></i></span>
-                                    <span class="like-btn bg-white rounded-circle display-2"><i class="fa-solid fa-heart text-danger"></i></span>
+                                    <span class="swipe-btn bg-white rounded-circle"><i style="rotate: 180deg;" class="fa-solid fa-thumbs-up text-secondary"></i></span>
+                                    <span class="like-btn bg-white rounded-circle"><i class="fa-solid fa-heart text-danger"></i></span>
                                 </div>
                             </div>
                     </div>`
